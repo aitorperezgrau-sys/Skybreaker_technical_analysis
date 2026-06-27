@@ -13,7 +13,7 @@ By running the simulation across multiple iterations, the model successfully dem
 
 ## Files Included
 * `Aitor_Pérez_Grau_skybreaker_analysis.ipynb` - The main Python script in Jupiter notebook selected for convenience in the execution, containing the environment setup, motor/rocket instantiation, and optimization logic.
-* `Analisis_vuelo_Skybreaker.pdf` - The detailed 14-page technical report containing the mathematical reasoning and exported visual data.
+* `Flight_analysis_Skybreaker.pdf` - The detailed 14-page technical report containing the mathematical reasoning and exported visual data.
 
 ## Skills Demonstrated
 Python (OOP, NumPy), RocketPy (6-DOF, FlightPlots), Flight Dynamics, Data Visualization, and Technical Reporting.
