@@ -1,5 +1,7 @@
 # Skybreaker Rocket: 6-DOF Flight Dynamics & Trajectory Optimization
 
+<img width="634" height="471" alt="Screenshot 2026-06-27 at 08 40 28" src="https://github.com/user-attachments/assets/ddf1c670-58be-44ff-b922-83287545762d" />
+
 ## Overview
 This repository contains a Python-based 6-Degrees of Freedom (6-DOF) flight simulation for the "Skybreaker" rocket, developed as part of Faraday Rocketry UPV. The primary objective of this project is to validate the vehicle's performance envelope and determine the optimal launch heading to maximize apogee under specific environmental conditions at the INTA launch site.
 
